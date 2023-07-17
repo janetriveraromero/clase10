@@ -1,0 +1,56 @@
+*{
+   /*margin-top:   0; 
+   margin-left: 0px;
+   margin-right: 0px;*/
+   margin: 0px;
+}
+
+
+.caja1{
+    border: 1px solid orange;
+    margin: 10px; /*los margenes son iguales*/
+}
+.caja2{
+    border: 1px dotted blue;
+    margin: 20px; /*los margenes son iguales*/
+    margin-right: 10px;
+}
+.caja3{
+    width :300px;
+    border:1px dashed #410ff5;
+    margin:10px 30px 15px 12px
+}
+.caja4{
+    border: 1px solid blueviolet;
+    width: 500px;
+    padding: 10px;
+}
+.caja5{
+    background-color: turquoise;
+    width:50%;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.caja6{
+background-color: turquoise;
+width: 50%;
+margin: 10px;
+padding: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 18px;
+border-bottom-left-radius: 25px;
+border-bottom-left-radius: 36px;
+}
+.caja7{
+background-color: #e5cc0e;
+color: white;
+width: 50%;
+margin: 10px;
+padding:10px;
+border-radius: 10px 25px 15px 7px;
+box-shadow: 10px 5px 15px blue inset;
+
+
+}
